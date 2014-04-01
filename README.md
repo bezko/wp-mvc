@@ -1,3 +1,7 @@
+
+![](https://www.codeship.io/projects/b498beb0-9bfd-0131-0bf6-4eafc2b62597/status)
+
+
 WP MVC
 ==================================================
 An MVC framework for WordPress
